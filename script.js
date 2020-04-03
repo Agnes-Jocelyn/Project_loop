@@ -35,7 +35,7 @@ let nilai = 90;
    else {
        return 'F'
    }
-}
+
    for(let i = nilai; i <= nilai; i++){
     console.log('anda'+'dapat' + i + 'artinya' + assignGrade(i));
     
